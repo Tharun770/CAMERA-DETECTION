@@ -1,5 +1,5 @@
 # CAMERA-DETECTION
-🚨AI-Powered Unauthorized Camera Detection System 🚨
+<h3>🚨AI-Powered Unauthorized Camera Detection System 🚨</h3>
 
 <h1>Overview</h1>
 
@@ -43,16 +43,16 @@ Threading (Smooth UI & Background Processing)
 
 Step 1: Clone the Repository
 
-git clone https://github.com/your-username/camera-detection-system.git
+git clone https://Tharun770/camera-detection-system.git<br>
 cd camera-detection-system
 
 Step 2: Install Dependencies
 
-pip install opencv-python numpy twilio pyautogui pillow winsound
+👉pip install opencv-python numpy twilio pyautogui pillow winsound
 
 Step 3: Download YOLOv3 Model Files
 
-Place the following files inside models/ directory:
+👉Place the following files inside models/ directory:
 
 yolov3.weights
 
@@ -60,7 +60,7 @@ yolov3.cfg
 
 coco.names
 
-You can download them from:
+👉You can download them from:
 
 YOLOv3 Weights
 
@@ -70,37 +70,37 @@ COCO Names
 
 Step 4: Configure Twilio API
 
-Create a Twilio Account and set up a WhatsApp sandbox. Replace the following in the script:
+👉<h3>Create a Twilio Account and set up a WhatsApp sandbox. Replace the following in the script:</h3>
 
-TWILIO_SID = "your_twilio_sid"
-TWILIO_AUTH = "your_twilio_auth_token"
-TO_WHATSAPP = "whatsapp:+91XXXXXXXXXX"
-FROM_WHATSAPP = "whatsapp:+14155238886"
+TWILIO_SID = "your_twilio_sid"<br>
+TWILIO_AUTH = "your_twilio_auth_token"<br>
+TO_WHATSAPP = "whatsapp:+91XXXXXXXXXX"<br>
+FROM_WHATSAPP = "whatsapp:+14155238886"<br>
 
 Step 5: Run the Application
 
 python app.py
 
-Usage
+<h1>Usage</h1>
 
-Start Monitoring by clicking the Start button.
+1.Start Monitoring by clicking the Start button.
 
-The system continuously scans for unauthorized cameras.
+2.The system continuously scans for unauthorized cameras.
 
-If a phone or camera is detected, the system:
+3.If a phone or camera is detected, the system:
 
-Plays an alarm
+4.Plays an alarm
 
-Takes a screenshot of the screen
+5.Takes a screenshot of the screen
 
-Captures an image of the intruder
+6.Captures an image of the intruder
 
-Sends a WhatsApp alert
+7.Sends a WhatsApp alert
 
-Press Stop to exit the application.
+8.Press Stop to exit the application.
 
 
-Future Enhancements
+<h1>Future Enhancements</h1>
 
 🔹 Facial Recognition for authorized personnel to reduce false alarms.<br>🔹 Multi-Camera Support to monitor different angles.<br>🔹 Cloud Integration to store detection logs and images remotely.
 
