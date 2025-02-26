@@ -13,11 +13,10 @@
 
 4.Provides a real-time video feed with a modern, colorful Tkinter UI 🎨<br>
 
-5.Displays CCTV camera images at the corners to enhance monitoring 🔍<br>
 
 <h2>Features</h2>
 
-✅ Real-time Object Detection using YOLOv3 for identifying cameras/phones.<br>✅ Instant Alerts via WhatsApp using Twilio API.<br>✅ Loud Alarm using system beeps for immediate response.<br>✅ User-Friendly Tkinter Interface with dynamic elements and live feed.<br>✅ CCTV Camera UI Design with security-themed aesthetics.<br>✅ Multithreading for a smooth UI experience.
+✅ Real-time Object Detection using YOLOv3 for identifying cameras/phones.<br>✅ Instant Alerts via WhatsApp using Twilio API.<br>✅ Loud Alarm using system beeps for immediate response.<br>✅ User-Friendly Tkinter Interface with dynamic elements and live feed.<br>✅ Multithreading for a smooth UI experience.
 
 <h2>Technologies Used<h2></h2>
 
