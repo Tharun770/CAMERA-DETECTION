@@ -42,7 +42,7 @@ Threading (Smooth UI & Background Processing)
 
 Step 1: Clone the Repository
 
-git clone https://Tharun770/camera-detection-system.git<br>
+git clone https://github.com/Tharun770/CAMERA-DETECTION/tree/master/ai
 cd camera-detection-system
 
 Step 2: Install Dependencies
